@@ -1,3 +1,15 @@
 site_name: Carleton Computer Science Society Documentation
 site_author: Carleton Computer Science Society
 theme: readthedocs
+pages:
+- Home: 'index.md'
+- Governance:
+  - 'Overview': 'governance/Overview.md'
+  - 'Constitution': 'governance/Constitution.md'
+  - 'Rules of Operation': 'governance/Rules-of-Operation.md'
+  - 'Meetings': 'governance/Meetings.md'
+  - Directors:
+    - 'President': 'governance/directors/president.md'
+- Student-Handbook:
+  - Introduction:
+    - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
