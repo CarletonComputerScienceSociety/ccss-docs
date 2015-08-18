@@ -1,4 +1,4 @@
-﻿# Carleton Computer Science Society Constitution
+﻿<h1>Carleton Computer Science Society Constitution</h1>
 
 ## Name
 
