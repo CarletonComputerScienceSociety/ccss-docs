@@ -24,7 +24,7 @@ can probably be the same time that you work on the project. Regular meetings are
 incredibly helpful.
 
 <h2>Mutual Influence</h2>
-  This is a complex word with a lot of substance. There's a easy definition of
+  This is a complex phrase with a lot of substance. There's a easy definition of
 it that captures most of the substance. Mutual Influence is defined as
 interactional partners taking account of each other's characteristics and
 behaviour, and thus influencing each other's behaviour in interaction. This is
