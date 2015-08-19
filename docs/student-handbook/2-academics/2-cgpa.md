@@ -1,17 +1,18 @@
-# Part 2: How to Calculate Your CGPA
- 
-Note: Your Overall CGPA is calculated from all the courses you have taken, 
-but your Major CGPA is only calculated from the courses for your Major 
-Requirements.  These courses are listed in Section A of the [course 
-calendar](http://calendar.carleton.ca/undergrad/undergradprograms/computerscience/) 
+<h1>How to Calculate Your CGPA </h1>
+
+Note: Your Overall CGPA is calculated from all the courses you have taken,
+but your Major CGPA is only calculated from the courses for your Major
+Requirements.  These courses are listed in Section A of the [course
+calendar](http://calendar.carleton.ca/undergrad/undergradprograms/computerscience/)
 or can be found in your audit underneath “Major Requirements.”
 
-To calculate your minor CGPA, follow the same steps but with the courses 
+To calculate your minor CGPA, follow the same steps but with the courses
 for your minor.
 
-The Norman Paterson School of International Affairs provides a [simple 
-guide for calculating your CGPA[(https://carleton.ca/npsia/calculate-your-gpa/)
- 
+The Norman Paterson School of International Affairs provides a
+simple [guide](https://carleton.ca/npsia/calculate-your-gpa/) for
+calculating your CGPA.
+
 |Course   |Credit Value|Grade|Grade Point|
 |---------|------------|-----|-----------|
 |COMP 1405|0.5|A+|6.0|
@@ -26,6 +27,4 @@ guide for calculating your CGPA[(https://carleton.ca/npsia/calculate-your-gpa/)
 |---------|---|---|---|
 |         |5.0|   |45|
 Overall CGPA: 9.0
-Major CGPA: 10.25 
-
-
+Major CGPA: 10.25
