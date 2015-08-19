@@ -1,4 +1,4 @@
-# The Interview
+<h1> The Interview </h1>
 
 So - you've worked tirelessly on your resume, you've sent it out to a million
 places, and it all comes down to this - the interview! Programming interviews,
@@ -7,7 +7,7 @@ experiences.
 Technical interviews can be scary, but they are a skill. And like any
 skill, with practice, anyone can be awesome at it.
 
-## CCSS Top 5 Interview Tips
+<h2>CCSS Top 5 Interview Tips</h2>
 * Do your research! Knowing about a company is a great way to show that you want the job and is a great conversation starter.
 * Try and de-formalize the situation. Interviews are only as scary as you make them! Find common ground and use the interviewer's questions
 as a hint of how they want the conversation to go. Remember to make
@@ -33,7 +33,8 @@ class, but verbally. If you have a whiteboard during the interview,
 > couple good references:
 > * Cracking the Coding Interview (Book)/careercup.com - interview problems and interview processes at several large companies.
 > * TopCoder
-> * Maksim Noy's programming interview problems ( [http://maxnoy.com/interviews](http://maxnoy.com/interviews))
+> * Maksim Noy's programming interview problems
+([http://maxnoy.com/interviews](http://maxnoy.com/interviews))
 > * Hackerrank ([https://www.hackerrank.com](https://www.hackerrank.com))
 > * Leetcode ([https://leetcode.com](https://leetcode.com))
 > * InterviewCake ([https://www.interviewcake.com/](https://www.interviewcake.com/))
