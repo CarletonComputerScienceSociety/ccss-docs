@@ -33,8 +33,7 @@ class, but verbally. If you have a whiteboard during the interview,
 > couple good references:
 > * Cracking the Coding Interview (Book)/careercup.com - interview problems and interview processes at several large companies.
 > * TopCoder
-> * Maksim Noy's programming interview problems
-([http://maxnoy.com/interviews](http://maxnoy.com/interviews))
+> * Maksim Noy's [programming interview problems](http://jackmc.github.io/public/interviews.html)
 > * Hackerrank ([https://www.hackerrank.com](https://www.hackerrank.com))
 > * Leetcode ([https://leetcode.com](https://leetcode.com))
 > * InterviewCake ([https://www.interviewcake.com/](https://www.interviewcake.com/))
