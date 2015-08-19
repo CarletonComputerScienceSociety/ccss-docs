@@ -10,6 +10,8 @@ pages:
   - 'Meetings': 'governance/Meetings.md'
   - Directors:
     - 'President': 'governance/directors/president.md'
+- Resources:
+  - 'Overview': 'resources/overview.md'
 - Student-Handbook:
   - Introduction:
     - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
