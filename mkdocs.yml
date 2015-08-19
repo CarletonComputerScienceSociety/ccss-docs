@@ -10,6 +10,18 @@ pages:
   - 'Meetings': 'governance/Meetings.md'
   - Directors:
     - 'President': 'governance/directors/president.md'
+    - 'Vice-President': 'governance/directors/Vice-President.md'
+    - 'Treasurer': 'governance/directors/Treasurer.md'
+    - 'VP Academics': 'governance/directors/VP-of-Academics.md'
+    - 'VP Social': 'governance/directors/VP-of-Social.md'
+  - Officers:
+    - 'Overview and Listing': 'governance/officers/overview.md'
+    - 'Officer of Society Outreach': 'governance/officers/Officer-of-Society-Outreach.md'
+    - 'Officer of Systems Administration': 'governance/officers/Officer-of-Systems-Administration.md'
+    - 'Officer of Lounge Management': 'governance/officers/Officer-of-Lounge-Management.md'
+  - Committees:
+    - 'Committees Information': 'governance/committees/Overview-of-Committees.md'
+    - 'List of Committees': 'governance/committees/List-of-Committees.md'
 - Resources:
   - 'Overview': 'resources/overview.md'
 - Student-Handbook:
