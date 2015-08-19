@@ -25,8 +25,8 @@ pages:
 - Resources:
   - 'Overview': 'resources/overview.md'
 - Getting_Involved:
-  - 'Overview': 'getting-involved/overview.md'
-  - 'Volunteering': 'getting-involved/volunteering.md'
+  - 'Overview': 'getting_involved/overview.md'
+  - 'Volunteering': 'getting_involved/volunteering.md'
 - Student-Handbook:
   - Introduction:
     - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
