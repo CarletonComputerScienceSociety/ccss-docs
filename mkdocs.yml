@@ -1,0 +1,26 @@
+site_name: Carleton Computer Science Society Documentation
+site_author: Carleton Computer Science Society
+theme: readthedocs
+pages:
+- Home: 'index.md'
+- Governance:
+  - 'Overview': 'governance/Overview.md'
+  - 'Constitution': 'governance/Constitution.md'
+  - 'Rules of Operation': 'governance/Rules-of-Operation.md'
+  - 'Meetings': 'governance/Meetings.md'
+  - Directors:
+    - 'President': 'governance/directors/president.md'
+- Resources:
+  - 'Overview': 'resources/overview.md'
+- Student-Handbook:
+  - Introduction:
+    - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
+  - Academics:
+    - 'What is an Audit?': 'student-handbook/2-academics/2-audit.md'
+    - 'Understanding Your Standing': 'student-handbook/2-academics/2-standing.md'
+  - Careers:
+    - 'Coding Interviews': 'student-handbook/4-careers/coding_interviews.md'
+    - 'No Really, Just Apply': 'student-handbook/4-careers/just_apply.md'
+  - Technical:
+    - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/text_editors_and_coffee.md'
+
