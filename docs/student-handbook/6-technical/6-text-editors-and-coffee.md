@@ -17,12 +17,12 @@ gonna be using this piece of software for at least a couple hours at a time.
 > gonna try and give a short, sweet, simple description of each editor.
 > * Vim: Vim is the editor you will hear a lot about. It has a steep learning
 > curve, and is used by a lot of computer science upper year students at
-> Carleton. The best way to try it out is to probably talked to a Vim
-> user you know.
+> Carleton. The best way to try it out is to follow a tutorial. We recommend
+> [http://vim-adventures.com](http://vim-adventures.com).
 > * Emacs: Emacs is Vim's counterpart in the holy war, with a similar learning
 > curve and features, with a fanbase to match.
 > * Sublime Text: Sublime Text is very similar to Atom, but is a piece of paid
 > software.
 
-Now, on to the other half. Coffee. Carleton has some of the highest
-coffee per capita for a university (11 coffee shops in total).
+Now, on to the other half. Coffee. Carleton has some of the highest coffee per
+capita for a university (11 coffee shops in total).
