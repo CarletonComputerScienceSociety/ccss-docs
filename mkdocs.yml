@@ -24,9 +24,9 @@ pages:
     - 'List of Committees': 'governance/committees/List-of-Committees.md'
 - Resources:
   - 'Overview': 'resources/overview.md'
-- Getting_Involved:
-  - 'Overview': 'getting_involved/overview.md'
-  - 'Volunteering': 'getting_involved/volunteering.md'
+- 'Getting Involved':
+  - 'Overview': 'getting-involved/overview.md'
+  - 'Volunteering': 'getting-involved/volunteering.md'
 - Student-Handbook:
   - Introduction:
     - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
