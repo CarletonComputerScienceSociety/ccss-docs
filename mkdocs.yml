@@ -25,10 +25,11 @@ pages:
     - 'List of Committees': 'governance/committees/List-of-Committees.md'
 - Resources:
   - 'Overview': 'resources/overview.md'
-  - 'Lounge': 'resources/lounge.md'
-- 'Getting Involved':
-  - 'Overview': 'getting-involved/overview.md'
-  - 'Volunteering': 'getting-involved/volunteering.md'
+  - 'Lounge Services': 'resources/lounge.md'
+  - 'Events Info': 'resources/events.md'
+  - 'Partnered Clubs': 'resources/clubs.md'
+  - 'Volunteering Info': 'resources/volunteering.md'
+  - 'Work with the CCSS': 'resources/partnership.md'
 - Student-Handbook:
   - Introduction:
     - 'Getting to Know Your Acronyms': 'student-handbook/1-introduction/1-acronyms.md'
