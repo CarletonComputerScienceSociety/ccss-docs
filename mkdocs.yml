@@ -40,10 +40,13 @@ pages:
     - 'Understanding Your Standing': 'student-handbook/2-academics/2-standing.md'
     - 'The Hard Ones: Traditionally Difficult Courses': 'student-handbook/2-academics/2-hard-courses.md'
     - 'Group Work': 'student-handbook/2-academics/2-group.md'
+  - Social:
+    - 'Ottawa is Weird': 'student-handbook/3-social/3-ottawa-is-weird.md'
   - Careers:
     - 'Co-op (Not the Gaming Kind)': 'student-handbook/4-careers/4-coop.md'
     - 'Coding Interviews': 'student-handbook/4-careers/4-coding-interviews.md'
     - 'No Really, Just Apply': 'student-handbook/4-careers/4-just-apply.md'
+  - CCSS: 'student-handbook/5-ccss/index.md'
   - Technical:
     - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/6-text-editors-and-coffee.md'
 
