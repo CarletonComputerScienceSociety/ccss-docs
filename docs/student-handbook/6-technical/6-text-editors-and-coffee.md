@@ -1,7 +1,7 @@
-# Meet your new best friends
+<h1> Meet your new best friends </h1>
 A computer science student should never be caught without two things: coffee and
-code. One of the things that you need to write code is a _text editor_. A text
-editor is a piece of software that allows you to write, well, text. The simplest
+code. One of the things that you need to write code is a **text editor**. A text
+editor is a piece of software that allows you to write text. The simplest
 text editor would be Notepad. But, as you'll find, Notepad has pretty poor support
 for anything more than writing down notes (no automatic indentation, syntax
 linting, etc.)
@@ -24,5 +24,6 @@ gonna be using this piece of software for at least a couple hours at a time.
 > * Sublime Text: Sublime Text is very similar to Atom, but is a piece of paid
 > software.
 
+<h2> Coffee </h2>
 Now, on to the other half. Coffee. Carleton has some of the highest coffee per
-capita for a university (11 coffee shops in total).
+capita for a university (11 coffee shops in total). Go find them yourself with this [list.](http://dining.carleton.ca/locations/)
