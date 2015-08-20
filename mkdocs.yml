@@ -42,8 +42,8 @@ pages:
     - 'Group Work': 'student-handbook/2-academics/2-group.md'
   - Careers:
     - 'Co-op (Not the Gaming Kind)': 'student-handbook/4-careers/4-coop.md'
-    - 'Coding Interviews': 'student-handbook/4-careers/coding_interviews.md'
-    - 'No Really, Just Apply': 'student-handbook/4-careers/just_apply.md'
+    - 'Coding Interviews': 'student-handbook/4-careers/4-coding-interviews.md'
+    - 'No Really, Just Apply': 'student-handbook/4-careers/4-just-apply.md'
   - Technical:
-    - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/text_editors_and_coffee.md'
+    - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/6-text-editors-and-coffee.md'
 
