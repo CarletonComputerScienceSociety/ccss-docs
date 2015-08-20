@@ -3,6 +3,7 @@ site_author: Carleton Computer Science Society
 theme: readthedocs
 pages:
 - Home: 'index.md'
+- 'Contact Us': 'contact-us.md'
 - Governance:
   - 'Overview': 'governance/Overview.md'
   - 'Constitution': 'governance/Constitution.md'
