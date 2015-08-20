@@ -24,6 +24,7 @@ pages:
     - 'List of Committees': 'governance/committees/List-of-Committees.md'
 - Resources:
   - 'Overview': 'resources/overview.md'
+  - 'Lounge': 'resources/lounge.md'
 - 'Getting Involved':
   - 'Overview': 'getting-involved/overview.md'
   - 'Volunteering': 'getting-involved/volunteering.md'
