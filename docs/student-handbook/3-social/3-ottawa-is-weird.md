@@ -16,7 +16,7 @@ Transit usually takes a while. It's still a good idea (because it's essentially
 free with your tuition) but plan on being on that bus for a bit. 30 minutes is
 pretty much as good as it gets.
 
-There's a ~~shit~~load of green spaces! This is actually one of the good parts.
+There's a <strike>shit</strike>load of green spaces! This is actually one of the good parts.
 Because Ottawa takes up so much space and because some of the chunks are
 arbitrarily far from each other, Ottawa has many intentional and unintentional
 green spaces! Just check out the park across the river from campus for a peek
