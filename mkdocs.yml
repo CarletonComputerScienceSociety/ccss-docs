@@ -43,6 +43,7 @@ pages:
     - 'Understanding Your Standing': 'student-handbook/2-academics/2-standing.md'
     - 'The Hard Ones: Traditionally Difficult Courses': 'student-handbook/2-academics/2-hard-courses.md'
     - 'Group Work': 'student-handbook/2-academics/2-group.md'
+    - 'Top Five Study Spots': 'student-handbook/2-academics/2-study-spots.md'
   - Social:
     - 'Ottawa is Weird': 'student-handbook/3-social/3-ottawa-is-weird.md'
   - Careers:
@@ -52,4 +53,3 @@ pages:
   - CCSS: 'student-handbook/5-ccss/index.md'
   - Technical:
     - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/6-text-editors-and-coffee.md'
-
