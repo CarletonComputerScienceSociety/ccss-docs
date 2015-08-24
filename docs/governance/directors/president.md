@@ -2,6 +2,8 @@
 
 Position currently held by Connor Hillen (2015/2016)
 
+*Chair of the Board of Directors for the CCSS*
+
 ## Responsibilities
 
 Public face of the CCSS. Represents us as the Society to Carleton's

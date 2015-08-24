@@ -2,6 +2,8 @@
 
 Position currently held by Alisa Tkaczyk (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 Ensures that CCSS social media accounts are managed and updated frequently.

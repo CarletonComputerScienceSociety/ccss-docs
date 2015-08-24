@@ -2,6 +2,8 @@
 
 Position currently held by Andrew Morris (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 The Vice-President ensures that other Directors, Officers, and Committees are

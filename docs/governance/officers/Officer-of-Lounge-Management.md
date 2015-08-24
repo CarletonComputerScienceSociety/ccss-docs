@@ -2,6 +2,8 @@
 
 Position currently held by Shawn Ellis (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 Maintain the CCSS Lounge's (4135HP) stocks, services, staffing, cleanliness and

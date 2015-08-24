@@ -2,6 +2,8 @@
 
 Position currently held by Andrew Morris (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 Ensure the CCSS website and other technical services and assets of the CCSS are

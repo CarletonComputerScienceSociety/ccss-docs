@@ -2,6 +2,8 @@
 
 Position currently held by Elisa Kazan (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 Ensures the quality provision of social services and events by the CCSS.

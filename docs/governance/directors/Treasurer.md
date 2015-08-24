@@ -2,6 +2,8 @@
 
 Position currently held by Shawn Ellis (2015/2016)
 
+*Voting Member of the Board of Directors*
+
 ## Responsibilities
 
 Maintains and compiles the CCSS Budget. Oversees all financial records of the

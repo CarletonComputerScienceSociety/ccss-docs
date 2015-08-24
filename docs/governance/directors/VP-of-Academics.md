@@ -2,6 +2,8 @@
 
 Position currently held by Sam Whiteley (2015/2016)
 
+*Voting member of the Board of Directors*
+
 ## Responsibilities
 
 Ensure the availability and efficacy of opportunities for members of the CCSS
