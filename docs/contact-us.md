@@ -2,7 +2,8 @@
 
 ## General Information
 
-[info@ccss.carleton.ca](mailto:info@ccss.carleton.ca)
+If you have inquiries for which you can't find a sensible contact than email
+[info@ccss.carleton.ca](mailto:info@ccss.carleton.ca).
 
 ## Board of Directors
 
@@ -27,7 +28,7 @@ Laura Alkhoury, Officer of Career Outreach:
 
 ## Committees and Officers
 
-Please see the committee or Officer's specific page to find contact their
+Please see the Committee's or Officer's specific page to find contact their
 relevant contact information.
 
 ## Old school

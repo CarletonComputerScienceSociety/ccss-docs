@@ -6,7 +6,8 @@ found here.
 
 ## General Meetings
 
-*See the [Constitution](./Constitution.md) for information about General
+*See the [Constitution](./Constitution.md) and the [Rules of
+Operation](./Rules-of-Operation.md) for information about General
 meetings*
 
 ## Meetings of the Board

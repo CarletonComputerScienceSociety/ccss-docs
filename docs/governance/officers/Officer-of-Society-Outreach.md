@@ -7,9 +7,8 @@ Position currently held by Alisa Tkaczyk (2015/2016)
 ## Responsibilities
 
 Ensures that CCSS social media accounts are managed and updated frequently.
-Promotes CCSS endeavours to the Society membership in a maximally reaching
-format. Promotions include CCSS Events, tech services such as the website and
-forum, and workshops.
+Promotes CCSS endeavours to the Society membership. Promotions include CCSS
+Events, tech services such as the website and forum, and workshops.
 
 Maintains a method through which members of the Society may show interest in
 getting involved in Society endeavours.
