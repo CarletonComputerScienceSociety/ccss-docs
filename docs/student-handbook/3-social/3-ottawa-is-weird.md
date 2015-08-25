@@ -70,5 +70,16 @@ My tips for using OC Transpo (and I've been using it for a decade) are:
   car). They're better than the OC Transpo app ones.
 - Only bus during rush hour if you're fine with 0 personal space.
 
-## What You're Likely To Miss
+Oh, and before you go get wild downtown (and you will), make sure you check
+your last bus times! There's always an Uber or a cab that aren't too expensive
+but your UPass is totally free!
+
+The last bus that leaves Carleton to go Downtown is usually the **7** at about
+**12:30** at night.
+
+The last bus that gets you back to Carleton from downtown is generally the
+**1** at around **2:00am** but there's a 15 minute walk back to campus from the
+stop.
+
+Happy busing!
 
