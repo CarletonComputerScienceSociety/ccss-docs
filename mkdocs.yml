@@ -56,3 +56,4 @@ pages:
   - CCSS: 'student-handbook/5-ccss/index.md'
   - Technical:
     - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/6-text-editors-and-coffee.md'
+    - 'Version Control (Like, v0.1?)': 'student-handbook/6-technical/6-version-control.md'
