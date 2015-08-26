@@ -32,6 +32,7 @@ pages:
   - 'Work with the CCSS': 'resources/partnership.md'
 - Student-Handbook:
   - Introduction:
+    - 'Introduction': 'student-handbook/1-introduction/1-intro.md'
     - 'Getting to Know Your Acronyms': 'student-handbook/1-introduction/1-acronyms.md'
     - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
   - Academics:
