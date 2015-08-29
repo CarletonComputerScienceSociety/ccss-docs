@@ -64,3 +64,7 @@ Herzberg Laboratories (4135 HP).***
 Should such a mission seem much too perilous then you can always email the
 relevant Director or Officer of the CCSS for your query and/or suggestion.
 Check out our [Contact Page](../../contact-us.md) for info and emails.
+
+* * *
+
+*Author: Sam Whiteley, 4th year, Security Stream*

@@ -28,3 +28,7 @@ The typical Computer Science [work-study pattern.](https://carleton.ca/cc/co-ope
 
 Tip: You might be able to turn what you want to do into a
 co-op work term.
+
+* * *
+
+*Author: Lindsay Bangs, 4th year, Mobile Stream*

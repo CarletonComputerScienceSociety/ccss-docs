@@ -30,3 +30,10 @@ adding a minor only adds a couple extra courses.
 2. Cognitive Science
 3. Business
 4. Physics
+
+* * *
+
+*Authors:
+
+- Lindsay Bangs, 4th year, Mobile Stream
+- Eashan Singh, 4th year, Game Dev. Stream*

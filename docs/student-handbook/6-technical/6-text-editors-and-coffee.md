@@ -27,3 +27,7 @@ gonna be using this piece of software for at least a couple hours at a time.
 <h2> Coffee </h2>
 Now, on to the other half. Coffee. Carleton has some of the highest coffee per
 capita for a university (11 coffee shops in total). Go find them yourself with this [list.](http://dining.carleton.ca/locations/)
+
+* * *
+
+*Author: Jack McCracken, 2nd year, Security Stream*

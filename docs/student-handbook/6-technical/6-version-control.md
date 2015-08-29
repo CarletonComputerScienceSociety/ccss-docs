@@ -107,5 +107,5 @@ Truly!
 Happy coding readers! I hope this is a good starting point for you to have the
 best managed projects of your year and eventually your career!
 
-*Author: Sam Whiteley, 4th year   (Network and Computer Security Stream)*
+*Author: Sam Whiteley, 4th year, Security Stream*
 

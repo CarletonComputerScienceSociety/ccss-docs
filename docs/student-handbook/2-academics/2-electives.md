@@ -12,3 +12,10 @@ interesting, you might find that you have enough to pursue a minor in something 
 expected!
 
 > Tip: you cannot include more than 7.0 1000-level credits in your degree.
+
+* * *
+
+*Authors:
+
+- Eashan Singh, 4th year, Game Dev. Stream
+- Lindsay Bangs, 4th year, Mobile Stream*

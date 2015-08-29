@@ -37,3 +37,7 @@ class, but verbally. If you have a whiteboard during the interview,
 > * Hackerrank ([https://www.hackerrank.com](https://www.hackerrank.com))
 > * Leetcode ([https://leetcode.com](https://leetcode.com))
 > * InterviewCake ([https://www.interviewcake.com/](https://www.interviewcake.com/))
+
+* * *
+
+*Author: Jack McCracken, 2nd year, Security Stream*

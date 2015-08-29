@@ -28,3 +28,7 @@ calculating your CGPA.
 |         |5.0|   |45|
 Overall CGPA: 9.0
 Major CGPA: 10.25
+
+* * *
+
+*Author: Lindsay Bangs, 4th year, Mobile Stream*

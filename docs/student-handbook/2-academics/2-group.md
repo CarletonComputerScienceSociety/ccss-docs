@@ -73,4 +73,8 @@ working towards. You don't want the person developing the database to think
 that he's building it for storing films while everybody else is building a
 music storage application. It's also important to do this collaboratively so
 everyone feels like they are part of a group and not just a coder that got an
-assignment.  
+assignment.
+
+* * *
+
+*Author: Eashan Singh, 4th year, Game Dev. Stream*

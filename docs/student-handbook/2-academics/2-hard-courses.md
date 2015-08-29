@@ -36,3 +36,7 @@ easier). It just means that all the planning should be done together. Good code
 is like a cog that fits with a bunch of other code to make a machine but
 everyone needs to agree on what the machine should do and how it should do it
 otherwise you'll have a cog that doesn't fit.
+
+* * *
+
+*Authors: Eashan Singh, 4th year, Game Dev. Stream*

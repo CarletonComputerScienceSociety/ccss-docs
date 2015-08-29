@@ -42,7 +42,7 @@ Approved Arts elective.
 One course can fulfill more than one requirement for your degree.  For
 example, COMP 3804 is also listed as MATH 3804.  If you have a minor in
 Mathematics with a degree in Computer Science, taking COMP 3804 will
-fulfill a requirement for your major and a requirement for your minor.  
+fulfill a requirement for your major and a requirement for your minor.
 The best way to know how any course will affect your degree is to add it
 to your audit as a hypothetical course.
 
@@ -67,4 +67,8 @@ link on the hypothetical course code to open a window containing options.
 4) If you have hypothetical courses, they will show up on the search page
 for “Build Your Timetable”.  You can search all your hypothetical courses
 by selecting them and pressing Enter, rather than searching each course
-by it’s code one-by-one.  
+by it’s code one-by-one.
+
+* * *
+
+*Author: Lindsay Bangs, 4th year, Mobile Stream*

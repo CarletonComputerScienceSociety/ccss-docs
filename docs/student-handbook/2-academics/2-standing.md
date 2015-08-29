@@ -19,3 +19,7 @@ standing can be found in [Carleton regulations](http://www3.carleton.ca/calendar
 |5.5 to 10.0      | 5.50/4.50 | 3.50/3.50 |
 |10.5 to 15.0     | 6.00/5.00 | 3.50/3.50 |
 |15.5 +           | 6.50/5.00 | 4.00/4.00 |
+
+* * *
+
+*Author: Lindsay Bangs, 4th year, Mobile Stream*

@@ -9,3 +9,7 @@ listed on your degree. They are only mentioned in your transcript. A list of all
 the streams offered to Computer Science Honours students is available at
 https://admissions.carleton.ca/degrees/computer-science/ and their required courses
 can be found on your [Academic Calendar](http://calendar.carleton.ca/undergrad/undergradprograms/computerscience/).
+
+* * *
+
+*Author: Eashan Singh, 4th year, Game Dev. Stream*
