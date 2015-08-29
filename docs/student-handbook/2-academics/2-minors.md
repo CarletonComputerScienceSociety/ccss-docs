@@ -33,7 +33,7 @@ adding a minor only adds a couple extra courses.
 
 * * *
 
-*Authors:
+*Authors:*
 
-- Lindsay Bangs, 4th year, Mobile Stream
-- Eashan Singh, 4th year, Game Dev. Stream*
+- *Lindsay Bangs, 4th year, Mobile Stream*
+- *Eashan Singh, 4th year, Game Dev. Stream*

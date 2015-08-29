@@ -15,7 +15,7 @@ expected!
 
 * * *
 
-*Authors:
+*Authors:*
 
-- Eashan Singh, 4th year, Game Dev. Stream
-- Lindsay Bangs, 4th year, Mobile Stream*
+- *Eashan Singh, 4th year, Game Dev. Stream*
+- *Lindsay Bangs, 4th year, Mobile Stream*
