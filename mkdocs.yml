@@ -1,6 +1,8 @@
-site_name: Carleton Computer Science Society Documentation
+site_name: CCSS Info and Docs
+site_url: http://ccss.carleton.ca:8000
 site_author: Carleton Computer Science Society
 theme: readthedocs
+repo_url: https://github.com/CarletonComputerScienceSociety/ccss-docs/
 pages:
 - Home: 'index.md'
 - 'Contact Us': 'contact-us.md'
@@ -57,3 +59,5 @@ pages:
   - Technical:
     - 'Your Text Editor is Your Best Friend (and so is Coffee)': 'student-handbook/6-technical/6-text-editors-and-coffee.md'
     - 'Version Control (Like, v0.1?)': 'student-handbook/6-technical/6-version-control.md'
+extra:
+  base_url: /docs
