@@ -20,8 +20,8 @@ You may add, change or remove a minor to your degree at any time.  If
 you find you are taking most of your electives in one field, maybe
 adding a minor only adds a couple extra courses.
 
->Not sure if a certain minor will fit with the courses you are taking?
->Why not run a "What If" audit?
+Not sure if a certain minor will fit with the courses you are taking?
+Why not run a ["What If" audit](http://carleton.ca/sasc/advisingcentre/audit/what-if-audit/)?
 
 
 <h2>Minors that people in Computer Science usually gravitate to: </h2>
@@ -35,5 +35,5 @@ adding a minor only adds a couple extra courses.
 
 *Authors:*
 
-- *Lindsay Bangs, 4th year, Mobile Stream*
-- *Eashan Singh, 4th year, Game Dev. Stream*
+- *Lindsay Bangs, 4th year, Mobile Stream.  Minor in Greek and Roman Studies*
+- *Eashan Singh, 4th year, Game Dev. Stream. Minor in Mathematics*

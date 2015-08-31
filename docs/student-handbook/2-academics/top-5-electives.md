@@ -14,5 +14,5 @@
 	<dd> **Survey of Accounting**. A fairly useful course in ornithology.</dd>
 
 	<dt> TSES 2305</dt>
-	<dd> **Ancient Science and Technology**  A full-credit course that is light *and* interesting, making it a nice complement to a full course load.  Lectures 2 hours a week, VOD available </dd>
+	<dd> **Ancient Science and Technology**  A full-credit course that is light and interesting, making it a nice complement to a full course load.  Lectures 2 hours a week, VOD available </dd>
 </dl>
