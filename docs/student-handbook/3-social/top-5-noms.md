@@ -1,5 +1,7 @@
 <h1> Top 5 Food Spots</h1>
 
+[Hours of Operation](http://dining.carleton.ca/hours-of-operation/) for Dining Services.
+
 <dl>
 	<dt> Rooster's </dt>
 	<dd> Coffee cheaper than Tim's!  Get your breakfast wrap with extra veggies for super cheap, and fill'er up.</dd>
@@ -18,5 +20,5 @@
 
 </dl>
 
-The worst: Starbucks. Both of them. They are franchises, not real Starbucks.  Don't fall for the trap.
+The worst: Starbucks. Both of 'em. They are franchises, not real Starbucks.  Don't fall for the trap.
 Not gonna lie, the Second Cup is pretty decent, and they have cheap-latte-Tuesday.
