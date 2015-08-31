@@ -12,7 +12,8 @@ skill, with practice, anyone can be awesome at it.
 * Try and de-formalize the situation. Interviews are only as scary as you make them! Find common ground and use the interviewer's questions
 as a hint of how they want the conversation to go. Remember to make
 the interview a _conversation_, not a question and answer period.
-* Study up on common interview problems from the suggested sites in the sidebar, but don't memorize. Anyone who has interviewed someone
+* Study up on common interview problems from the suggested sites below,
+but don't memorize. Anyone who has interviewed someone
 before can tell when you're pretending to struggle with a problem.
 If you've seen a problem before, be polite and honest about it.
 Obviously, you should still make sure they know you know the solution.
@@ -28,15 +29,16 @@ you can get the answer. Think of this like showing your work in maths
 class, but verbally. If you have a whiteboard during the interview,
  use it!
 
-> There are many places you can look for information on coding
-> interviews and problems that are common in them. Here are a
-> couple good references:
-> * Cracking the Coding Interview (Book)/careercup.com - interview problems and interview processes at several large companies.
-> * TopCoder
-> * Maksim Noy's [programming interview problems](http://jackmc.github.io/public/interviews.html)
-> * Hackerrank ([https://www.hackerrank.com](https://www.hackerrank.com))
-> * Leetcode ([https://leetcode.com](https://leetcode.com))
-> * InterviewCake ([https://www.interviewcake.com/](https://www.interviewcake.com/))
+There are many places you can look for information on coding
+interviews and problems that are common in them. Here are a
+couple good references:
+
+* Cracking the Coding Interview (Book)/careercup.com - interview problems and interview processes at several large companies.
+* TopCoder
+* Maksim Noy's [programming interview problems](http://jackmc.github.io/public/interviews.html)
+* [Hackerrank](https://www.hackerrank.com)
+* [Leetcode](https://leetcode.com)
+* [InterviewCake](https://www.interviewcake.com/)
 
 * * *
 
