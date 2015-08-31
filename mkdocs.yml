@@ -39,7 +39,7 @@ pages:
     - 'Referral Guide': 'student-handbook/1-introduction/referral-guide.md'
   - Academics:
     - 'What is an Elective?': 'student-handbook/2-academics/2-electives.md'
-    - 'Top Five Best Electives': 'student-handbook/2-academics/2-best-electives.md'
+    - 'Top Five Best Electives': 'student-handbook/2-academics/top-5-electives.md'
     - 'Minors? What?': 'student-handbook/2-academics/2-minors.md'
     - 'What is so Honourable About Honours?': 'student-handbook/2-academics/2-honours.md'
     - 'Crossing the Streams': 'student-handbook/2-academics/2-streams.md'
@@ -47,9 +47,9 @@ pages:
     - 'Understanding Your Standing': 'student-handbook/2-academics/2-standing.md'
     - 'The Hard Ones: Traditionally Difficult Courses': 'student-handbook/2-academics/2-hard-courses.md'
     - 'Group Work': 'student-handbook/2-academics/2-group.md'
-    - 'Top Five Study Spots': 'student-handbook/2-academics/2-study-spots.md'
+    - 'Top Five Study Spots': 'student-handbook/2-academics/top-5-study-spaces.md'
   - Social:
-    - 'Top Five Food Spots': 'student-handbook/3-social/3-food-spots.md'
+    - 'Top Five Food Spots': 'student-handbook/3-social/top-5-noms.md'
     - 'Ottawa is Weird': 'student-handbook/3-social/3-ottawa-is-weird.md'
   - Careers:
     - 'Co-op (Not the Gaming Kind)': 'student-handbook/4-careers/4-coop.md'
