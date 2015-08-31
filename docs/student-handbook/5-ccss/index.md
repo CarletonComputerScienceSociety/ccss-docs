@@ -1,8 +1,8 @@
 <h1>The Carleton Computer Science Society</h1>
 
-Or CCSS for short, is the student run, student organized, student led, student
-staffed society for all undergrad level Computer Science students. If you're
-reading this guide then it's a good be you're a member!
+Or CCSS for short, is the student-run, student-organized, student-led, student-staffed 
+society for all undergrad level Computer Science students. If you're
+reading this guide then it's a good thing you are a member!
 
 ## What We Do
 
@@ -32,7 +32,7 @@ what you want!
 ## What You Do
 
 Other than plausibly exist, as a member of the CCSS, there are tons of things
-you can do besides plausibly exist to make your life at Carleton exciting and
+you can do to make your life at Carleton exciting and
 exceptional. Because the CCSS is a student run society, we need marvelous and
 motivated people like you to keep doing cool things for everyone. Got a good
 idea between you and your friends? Come let us know, we'll help you do it. Got
@@ -42,7 +42,7 @@ an improvement you want to see in the curriculum? Come let us know. Got a
 The only thing you need to do to get the most out of the CCSS and university
 life in general comes down to two things.
 
-1. Be vocal about what you want to see the university experience be.
+1. Be vocal about what you want to get from the university experience.
 
 2. Pitch in and help out when we say *HELL FCKN YES* to your plan.
 

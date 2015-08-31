@@ -6,9 +6,10 @@ focus on teaching you the intricacies of the specific stream that you registered
 for. Just for clarification, I want to add that streams don't make a huge
 difference in the jobs that you are going to be offered because streams aren't
 listed on your degree. They are only mentioned in your transcript. A list of all
-the streams offered to Computer Science Honours students is available at
-https://admissions.carleton.ca/degrees/computer-science/ and their required courses
-can be found on your [Academic Calendar](http://calendar.carleton.ca/undergrad/undergradprograms/computerscience/).
+the streams offered to Computer Science Honours students is available on the 
+[Admissions website](https://admissions.carleton.ca/degrees/computer-science/) and
+their required courses can be found on your 
+[Academic Calendar](http://calendar.carleton.ca/undergrad/undergradprograms/computerscience/).
 
 * * *
 

@@ -2,7 +2,8 @@
 
 <dl>
 	<dt> MacOdrum Library </dt>
-	<dd> A classic and the best, you can book a study room at [booking.carleton.ca](http://booking.carleton.ca)</dd>
+	<dd> A classic and the best, you can book a study room at 
+	<a href="http://booking.carleton.ca">booking.carleton.ca</a>.</dd>
 
 	<dt> Stairwell behind Southam Theatre A </dt>
 	<dd> Find it if you dare!</dd>
