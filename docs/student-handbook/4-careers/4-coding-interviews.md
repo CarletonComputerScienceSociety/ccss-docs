@@ -29,6 +29,7 @@ you can get the answer. Think of this like showing your work in maths
 class, but verbally. If you have a whiteboard during the interview,
  use it!
 
+<h2>Resources for Practice Interview Questions</h2>
 There are many places you can look for information on coding
 interviews and problems that are common in them. Here are a
 couple good references:
