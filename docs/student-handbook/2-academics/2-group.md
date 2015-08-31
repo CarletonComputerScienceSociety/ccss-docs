@@ -37,7 +37,8 @@ out together because all of you will probably have differing views on things and
 some conversations or meetings will get really tense. Arguments about work are
 alright but they shouldn't bleed into your friendship . I've seen way too many
 friendships broken due to a group project gone wrong. I'll list a couple of
-things one should keep in mind when you're in an argument -
+things one should keep in mind when you're in an argument:
+
 1. There are no stupid questions is always a good group policy to have.
 2. Treat everybody in your team as an equal.
 3. Nobody cares about your GPA/CGPA. If you can't win an argument with words,
