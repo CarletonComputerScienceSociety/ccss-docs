@@ -6,7 +6,7 @@ high-school and first year when I had projects that got bigger than I expected.
 How do you keep track of all the changes you made? How do you keep track of
 that one thing you changed that seemed experimentally good? How do you fix all
 those changes back when it turns out that was exactly what you didn't need. Not
-to mention all of your partners ~~app breaking~~ code? Luckily for you there's
+to mention all of your partners ~~app-breaking~~ code? Luckily for you there's
 a wonderful answer that takes care of all these things and more!
 
 Version control!
@@ -54,7 +54,7 @@ enough I've even used Dropbox once upon a time).
 
 I could try and take up the entire history and purpose of version control here,
 but it's been written before and by smarter people than I, so have yourself a
-[link](htts://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to
+[link](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) to
 some more in-depth stuff if you'd like (and I recommend it).
 
 ## The Practices
