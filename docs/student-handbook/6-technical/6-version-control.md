@@ -6,7 +6,7 @@ high-school and first year when I had projects that got bigger than I expected.
 How do you keep track of all the changes you made? How do you keep track of
 that one thing you changed that seemed experimentally good? How do you fix all
 those changes back when it turns out that was exactly what you didn't need. Not
-to mention all of your partners ~~app-breaking~~ code? Luckily for you there's
+to mention all of your partners <strike>app-breaking</strike> code? Luckily for you there's
 a wonderful answer that takes care of all these things and more!
 
 Version control!
