@@ -1,6 +1,6 @@
 <h1>The Carleton Computer Science Society</h1>
 
-Or CCSS for short, is the student-ran, student-organized, student-led, student-staffed 
+Or CCSS for short, is the student-run, student-organized, student-led, student-staffed 
 society for all undergrad level Computer Science students. If you're
 reading this guide then it's a good thing you are a member!
 
