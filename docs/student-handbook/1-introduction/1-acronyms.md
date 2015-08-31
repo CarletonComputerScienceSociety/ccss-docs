@@ -9,7 +9,7 @@
  <dd>School of Computer Science</dd>
 
  <dt>CCS</dt>
- <dd>Carleton Communication Services</dd>
+ <dd>Computing and Communication Services</dd>
 
  <dt>SSSC</dt>
  <dd>Science Student Success Centre </dd>
