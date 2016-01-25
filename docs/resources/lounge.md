@@ -15,3 +15,8 @@ of conveniences and services aimed at CS students. Things such as:
   - and many more!
 
 Come visit, chill, dork out, whatever!
+
+
+<h2>Printing</h2>
+
+Do you have anything that needs printing? Send the PDF to ccssprinter@gmail.com and ask the lounge volunteer to print it out for you.
