@@ -78,7 +78,7 @@ Governance Structure of the Committee
 
 The FGM will be held in the second month of the Fall Academic Term.
 
-The WGM will be held in the second month of the Winter Academic Term.
+The WGM will be held within the first two weeks of March.
 
 ## Business of the FGM
 
